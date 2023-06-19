@@ -1,0 +1,19 @@
+{
+  "name": "retos-typescript",
+  "version": "1.0.0",
+  "description": "Retos del 20 al 30 typescript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roekan/afa-FED-typescript-19-06.git"
+  },
+  "author": "Alvaro Fernandez Arribas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Roekan/afa-FED-typescript-19-06/issues"
+  },
+  "homepage": "https://github.com/Roekan/afa-FED-typescript-19-06#readme"
+}
